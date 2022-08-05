@@ -22,4 +22,6 @@
 - Vários tipos de componentes como o TimePiker, Button, EditText, Containers, TextViews, EditTexts <br>
 - Aprendi a trabalhar com Dialogs, alarme nativo do dispositivo e muito mais... 😊 <br><br>
 
-<p>Feito por <b>Leonardo Siqueira</b>, entre em contato comigo <a href="https://www.linkedin.com/in/leo-siqueira/">aqui! 😉</a>
+
+
+<p>Esse projeto foi feito por <b>Leonardo Siqueira</b>, com os créditos ao Marcos Duarte do canal Stack Mobile. Entre em contato comigo <a href="https://www.linkedin.com/in/leo-siqueira/">aqui! 😉</a>

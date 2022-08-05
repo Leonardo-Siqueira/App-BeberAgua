@@ -2,7 +2,7 @@
 
 <h2>📷 Demonstração</h2>
 <h2 align="center">
-  <img alt="Readme" title="Readme" src=""/>
+  <img alt="Readme" title="Readme" src="https://github.com/Leonardo-Siqueira/App-BeberAgua/blob/main/BeberAgua.gif"/>
   <br>
 
 <h2>🚀 Tecnologias</h2>

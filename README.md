@@ -22,4 +22,4 @@
 - Vários tipos de componentes como o TimePiker, Button, EditText, Containers, TextViews, EditTexts <br>
 - Aprendi a trabalhar com Dialogs, alarme nativo do dispositivo e muito mais... 😊 <br><br>
 
-<p>Feito por <b>Leonardo Siqueira</b>, entre em contato comigo <a href="https://www.linkedin.com/in/leonardo-siqueira-b63485228/">aqui! 😉</a>
+<p>Feito por <b>Leonardo Siqueira</b>, entre em contato comigo <a href="https://www.linkedin.com/in/leo-siqueira/">aqui! 😉</a>

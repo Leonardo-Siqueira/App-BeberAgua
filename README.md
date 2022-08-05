@@ -1,1 +1,25 @@
-# App-BeberAgua
+<h1 align="center">App Lembrete para beber Água 🥛</h1>
+
+<h2>📷 Demonstração</h2>
+<h2 align="center">
+  <img alt="Readme" title="Readme" src=""/>
+  <br>
+
+<h2>🚀 Tecnologias</h2>
+
+<p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
+
+<b>✔ Kotlin</b>
+<br>
+<b>✔ Android</b>
+<br>
+
+<h2>💻 Projeto</h2>
+<p>Nesse projeto pude colocar em prática algumas técnicas como o:</p>
+- ViewBinding <br>
+- Layouts responsivos <br>
+- Vários tipos de drawables <br>
+- Vários tipos de componentes como o TimePiker, Button, EditText, Containers, TextViews, EditTexts <br>
+- Aprendi a trabalhar com dialogs, alarme nativo do dispositivo e muito mais... 😊 <br><br>
+
+<p>Feito por <b>Leonardo Siqueira</b>, entre em contato comigo <a href="https://www.linkedin.com/in/leonardo-siqueira-b63485228/">aqui! 😉</a>
